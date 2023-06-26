@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sheela/h1>
+<h1 align="center">Hi 👋, I'm sheela </h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <img align="right" alt="Coding" src="https://github.com/Shee-la/Shee-la/assets/91527030/2fcf8ee7-dc3f-4993-83e1-83ee91becdde" width="400" height="300"> 
