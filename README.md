@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React JavaScript Projects**
 
-- 🌱 I’m currently learning **ReactJs & React Native**
+- 🌱 I’m currently learning ** Laravel PHP & ReactJs**
 
 - 📫 How to reach me **sheilayvonne45@gmail.com**
 
